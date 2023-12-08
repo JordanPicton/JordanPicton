@@ -5,9 +5,10 @@
 - 🤔 I’m looking for help with Website Navigation. Specifically drop downs.
 
 ## Hobbies:
-- Learning.
-- Gaming - Minecraft, Terraria, Call of Duty, Factorio, and DayZ.
-- Cycling/Adventuring, would like to travel more.
+- 💻 Learning.
+- 🎮 Gaming - Minecraft, Terraria, Call of Duty, Factorio, and DayZ.
+- 🚲 Cycling/Adventuring, would like to travel more.
+- ✈️ Travelling, I want to do a lot more of this.
 
 <!--
 **JordanPicton/JordanPicton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
