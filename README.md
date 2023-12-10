@@ -11,6 +11,12 @@
 - ✈️ Travelling, I want to do a lot more of this.
 - 🍲 Cooking, there's a lot more I want to try.
 
+## Links:
+- [GitHub](https://github.com/JordanPicton)
+- [Website](https://www.pictostudio.co.uk)
+- [Discord](https://discord.gg/DaCTamGB4j)
+- [YouTube](https://www.youtube.com/channel/UCRF-omIWK3pyQylsOyL_76A)
+
 <!--
 **JordanPicton/JordanPicton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
