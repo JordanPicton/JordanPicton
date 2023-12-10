@@ -9,6 +9,7 @@
 - 🎮 Gaming - Minecraft, Terraria, Call of Duty, Factorio, and DayZ.
 - 🚲 Cycling/Adventuring, would like to travel more.
 - ✈️ Travelling, I want to do a lot more of this.
+- 🍲 Cooking, there's a lot more I want to try.
 
 <!--
 **JordanPicton/JordanPicton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
