@@ -1,15 +1,8 @@
 ### About Me 👋
-- 🔭 I’m currently working on learning.
+- 🔭 I’m currently working on [My Doggies](https://github.com/JordanPicton/my-doggies) website project.
 - 🌱 I’m currently learning Web Development, Software Development, and Project Management.
 - 👯 I’m looking to collaborate on a fun Website.
 - 🤔 I’m looking for help with Website Navigation. Specifically drop downs.
-
-## Hobbies:
-- 💻 Learning.
-- 🎮 Gaming - Minecraft, Terraria, Call of Duty, Factorio, and DayZ.
-- 🚲 Cycling/Adventuring, would like to travel more.
-- ✈️ Travelling, I want to do a lot more of this.
-- 🍲 Cooking, there's a lot more I want to try.
 
 ## Links:
 - [GitHub](https://github.com/JordanPicton)
