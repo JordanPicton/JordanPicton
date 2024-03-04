@@ -1,3 +1,4 @@
+![Profile Picture](https://avatars.githubusercontent.com/u/121932608?v=4)
 ### About Me 👋
 - 🔭 I’m currently working on [My Doggies](https://github.com/JordanPicton/my-doggies) website project.
 - 🌱 I’m currently learning Web Development, Software Development, and Project Management.
