@@ -15,6 +15,7 @@
 
 ### :office: Employment:
 𝙋𝙤𝙨𝙞𝙩𝙞𝙤𝙣: 𝘼𝙙𝙢𝙞𝙣
+<br />
 𝙇𝙤𝙘𝙖𝙩𝙞𝙤𝙣: <a href="https://fibroconnect.co.uk">𝙁𝙄𝘽𝙍𝙊-𝘾𝙊𝙉𝙉𝙀𝘾𝙏-𝙏𝙎 𝘾𝙄𝘾</a>
 <hr />
 
@@ -33,7 +34,7 @@
   </a>
 
 ### 👨‍💻 Technologies:
-<div style="display: flex; justify-content: center;">
+``` html
 <!-- Git -->
   <div id="Git" style="display: flex; flex-direction: column; align-contents: center;">
     <a href="https://git-scm.com">
@@ -69,8 +70,6 @@
     </a>
     <img id="SCSS" width="100" src="https://progress-bar.dev/13">
   </div>
-</div>
-<div style="display: flex; justify-content: center;">
   <!-- Bootstrap -->
   <div id="Bootstrap" style="display: flex; flex-direction: column; align-contents: center;">
     <a href="https://getbootstrap.com">
@@ -106,7 +105,7 @@
     </a>
     <img id="NGINX" width="100" src="https://progress-bar.dev/1">
   </div>
-</div>
+  ```
 <hr />
 
 ## :link: Links:
