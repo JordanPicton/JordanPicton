@@ -34,78 +34,46 @@
   </a>
 
 ### 👨‍💻 Technologies:
-``` html
 <!-- Git -->
-  <div id="Git" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://git-scm.com">
-      <img id="Git" width="87" alt="Git Logo" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-    </a>
-    <img id="Git" width="100" src="https://progress-bar.dev/2">
-  </div>
+  <a href="https://git-scm.com">
+    <img id="Git" width="50" alt="Git Logo" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+  </a>
 <!-- GitHub -->
-  <div id="GitHub" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://github.com">
-      <img id="GitHub" width="87" alt="GitHub Logo" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
-    </a>
-    <img id="GitHub" width="100" src="https://progress-bar.dev/5">
-  </div>
+  <a href="https://github.com">
+    <img id="GitHub" width="50" alt="GitHub Logo" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+  </a>
 <!-- HTML5-->
-  <div id="HTML5" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://html.com/html5/">
-      <img id="HTML5" width="87" alt="HTML5 Logo" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-    </a>
-    <img id="HTML5" width="100" src="https://progress-bar.dev/75">
-  </div>
+  <a href="https://html.com/html5/">
+    <img id="HTML5" width="50" alt="HTML5 Logo" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+  </a>
   <!-- CSS3 -->
-  <div id="CSS3" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://css3.com">
-      <img id="CSS3" width="87" alt="CSS3 Logo" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-    </a>
-    <img id="CSS3" width="100" src="https://progress-bar.dev/23">
-  </div>
+  <a href="https://css3.com">
+    <img id="CSS3" width="50" alt="CSS3 Logo" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+  </a>
   <!-- SCSS -->
-  <div id="SCSS" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://sass-lang.com">
-      <img id="SCSS" width="87" alt="SCSS Logo" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
-    </a>
-    <img id="SCSS" width="100" src="https://progress-bar.dev/13">
-  </div>
+  <a href="https://sass-lang.com">
+    <img id="SCSS" width="50" alt="SCSS Logo" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
+  </a>
   <!-- Bootstrap -->
-  <div id="Bootstrap" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://getbootstrap.com">
-      <img id="Bootstrap" width="87" alt="Bootstrap Logo" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
-    </a>
-    <img id="Bootstrap" width="100" src="https://progress-bar.dev/60">
-  </div>
+  <a href="https://getbootstrap.com">
+    <img id="Bootstrap" width="50" alt="Bootstrap Logo" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+  </a>
   <!-- JavaScript -->
-  <div id="JavaScript" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://www.javascript.com">
-      <img id="JavaScript" width="87" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-    </a>
-    <img id="JavaScript" width="100" src="https://progress-bar.dev/10">
-  </div>
+  <a href="https://www.javascript.com">
+    <img id="JavaScript" width="50" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+  </a>
   <!-- Java -->
-  <div id="Java" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://www.java.com/en/">
-      <img id="Java" width="87" alt="Java Logo" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
-    </a>
-    <img id="Java" width="100" src="https://progress-bar.dev/6">
-  </div>
+  <a href="https://www.java.com/en/">
+    <img id="Java" width="50" alt="Java Logo" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+  </a>
   <!-- Python -->
-  <div id="Python" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://www.python.org">
-      <img id="Python" width="87" alt="Python Logo" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+  <a href="https://www.python.org">
+    <img id="Python" width="50" alt="Python Logo" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
     </a>
-    <img id="Python" width="100" src="https://progress-bar.dev/5">
-  </div>
   <!-- NGINX -->
-  <div id="NGINX" style="display: flex; flex-direction: column; align-contents: center;">
-    <a href="https://www.nginx.com">
-      <img id="NGINX" width="87" alt="NGINX Logo" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
-    </a>
-    <img id="NGINX" width="100" src="https://progress-bar.dev/1">
-  </div>
-  ```
+  <a href="https://www.nginx.com">
+    <img id="NGINX" width="50" alt="NGINX Logo" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
+  </a>
 <hr />
 
 ## :link: Links:
