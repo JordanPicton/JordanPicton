@@ -133,9 +133,9 @@
     <a href="https://github.com/JPicton-HCFE">
     <img id="GitHub" alt="" width="50" src="images/icons/github-second.png">
   </a>
-  <a href="">
+  <a href="https://discord.gg/DaCTamGB4j">
     <img id="Discord" alt="" width="50" src="images/icons/discord.png">
   </a>
-    <a href="">
+    <a href="https://www.youtube.com/channel/UCRF-omIWK3pyQylsOyL_76A">
     <img id="YouTube" alt="" width="50" src="images/icons/youtube.png">
   </a>
