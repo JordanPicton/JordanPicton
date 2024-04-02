@@ -61,6 +61,25 @@
         <img id="SCSS" width="100" alt="SCSS Logo" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
       </a>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <img id="Git" width="100" src="https://progress-bar.dev/2">
+    </td>
+    <td>
+      <img id="GitHub" width="100" src="https://progress-bar.dev/5">
+    </td>
+    <td>
+      <img id="HTML5" width="100" src="https://progress-bar.dev/75">
+    </td>
+    <td>
+      <img id="CSS3" width="100" src="https://progress-bar.dev/23">
+    </td>
+    <td>
+      <img id="SCSS" width="100" src="https://progress-bar.dev/13">
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://getbootstrap.com">
         <img id="Bootstrap" width="100" alt="Bootstrap Logo" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
@@ -88,21 +107,6 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img id="Git" width="100" src="https://progress-bar.dev/2">
-    </td>
-    <td>
-      <img id="GitHub" width="100" src="https://progress-bar.dev/5">
-    </td>
-    <td>
-      <img id="HTML5" width="100" src="https://progress-bar.dev/75">
-    </td>
-    <td>
-      <img id="CSS3" width="100" src="https://progress-bar.dev/23">
-    </td>
-    <td>
-      <img id="SCSS" width="100" src="https://progress-bar.dev/13">
-    </td>
     <td>
       <img id="Bootstrap" width="100" src="https://progress-bar.dev/60">
     </td>
