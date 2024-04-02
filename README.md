@@ -2,12 +2,16 @@
 <div align="center">
   <img src="images/github-header-image.png">
 </div>
-<hr />
 
 <!-- Welcome Section -->
+
 <h1 align="center">
-  𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
+  <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp5a2ZuM3Q5NmdhNGp1aTd4dXBjOWJya2FweTBnb2V0cDFvOXBtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
+    𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚
+  <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp5a2ZuM3Q5NmdhNGp1aTd4dXBjOWJya2FweTBnb2V0cDFvOXBtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </h1>
+<hr />
+
 <!-- About Me  Font used = Maths Sans Italic Bold-->
 
 ## 🗒️ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
