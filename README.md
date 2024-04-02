@@ -97,12 +97,12 @@
     </td>
     <td>
       <a href="https://www.python.org">
-         <img id="Python" width="50" alt="Python Logo" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+         <img id="Python" width="100" alt="Python Logo" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
        </a>
     </td>
     <td>
       <a href="https://www.nginx.com">
-        <img id="NGINX" width="50" alt="NGINX Logo" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
+        <img id="NGINX" width="100" alt="NGINX Logo" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
      </a>
     </td>
   </tr>
@@ -111,33 +111,31 @@
       <img id="Bootstrap" width="100" src="https://progress-bar.dev/60">
     </td>
     <td>
-      <img id="Bootstrap" width="100" src="https://progress-bar.dev/10">
+      <img id="JavaScript" width="100" src="https://progress-bar.dev/10">
     </td>
     <td>
-      <img id="Bootstrap" width="100" src="https://progress-bar.dev/6">
+      <img id="Java" width="100" src="https://progress-bar.dev/6">
     </td>
     <td>
-      <img id="Bootstrap" width="100" src="https://progress-bar.dev/5">
+      <img id="Python" width="100" src="https://progress-bar.dev/5">
     </td>
     <td>
-      <img id="Bootstrap" width="100" src="https://progress-bar.dev/1">
+      <img id="NGINX" width="100" src="https://progress-bar.dev/1">
     </td>
   </tr>
 </table>
 <hr />
 
 ## :link: Links:
-<div>
+  <a href="https://github.com/JordanPicton">
+    <img id="GitHub" alt="" width="50" src="images/icons/github-main.png">
+  </a>
+    <a href="https://github.com/JPicton-HCFE">
+    <img id="GitHub" alt="" width="50" src="images/icons/github-second.png">
+  </a>
   <a href="">
-    <img id="GitHub" alt="" width="50" src="images/icons/github-main.svg">
+    <img id="Discord" alt="" width="50" src="images/icons/discord.png">
   </a>
     <a href="">
-    <img id="GitHub" alt="" width="50" src="images/icons/github-second.svg">
+    <img id="YouTube" alt="" width="50" src="images/icons/youtube.png">
   </a>
-  <a href="">
-    <img id="Discord" alt="" width="50" src="images/icons/discord.svg">
-  </a>
-    <a href="">
-    <img id="YouTube" alt="" width="50" src="images/icons/youtube.svg">
-  </a>
-</div>
