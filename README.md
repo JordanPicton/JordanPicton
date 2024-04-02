@@ -34,46 +34,92 @@
   </a>
 
 ### 👨‍💻 Technologies:
-<!-- Git -->
-  <a href="https://git-scm.com">
-    <img id="Git" width="50" alt="Git Logo" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  </a>
-<!-- GitHub -->
-  <a href="https://github.com">
-    <img id="GitHub" width="50" alt="GitHub Logo" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
-  </a>
-<!-- HTML5-->
-  <a href="https://html.com/html5/">
-    <img id="HTML5" width="50" alt="HTML5 Logo" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-  </a>
-  <!-- CSS3 -->
-  <a href="https://css3.com">
-    <img id="CSS3" width="50" alt="CSS3 Logo" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-  </a>
-  <!-- SCSS -->
-  <a href="https://sass-lang.com">
-    <img id="SCSS" width="50" alt="SCSS Logo" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com">
-    <img id="Bootstrap" width="50" alt="Bootstrap Logo" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
-  </a>
-  <!-- JavaScript -->
-  <a href="https://www.javascript.com">
-    <img id="JavaScript" width="50" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/en/">
-    <img id="Java" width="50" alt="Java Logo" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org">
-    <img id="Python" width="50" alt="Python Logo" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-    </a>
-  <!-- NGINX -->
-  <a href="https://www.nginx.com">
-    <img id="NGINX" width="50" alt="NGINX Logo" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
-  </a>
+<table>
+  <tr>
+    <td>
+       <a href="https://git-scm.com">
+         <img id="Git" width="100" alt="Git Logo" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com">
+        <img id="GitHub" width="100" alt="GitHub Logo" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://html.com/html5/">
+        <img id="HTML5" width="100" alt="HTML5 Logo" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://css3.com">
+        <img id="CSS3" width="100" alt="CSS3 Logo" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://sass-lang.com">
+        <img id="SCSS" width="100" alt="SCSS Logo" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com">
+        <img id="Bootstrap" width="100" alt="Bootstrap Logo" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+     </a>
+    </td>
+    <td>
+      <a href="https://www.javascript.com">
+        <img id="JavaScript" width="100" alt="JavaScript Logo" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com/en/">
+        <img id="Java" width="100" alt="Java Logo" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org">
+         <img id="Python" width="50" alt="Python Logo" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+       </a>
+    </td>
+    <td>
+      <a href="https://www.nginx.com">
+        <img id="NGINX" width="50" alt="NGINX Logo" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img id="Git" width="100" src="https://progress-bar.dev/2">
+    </td>
+    <td>
+      <img id="GitHub" width="100" src="https://progress-bar.dev/5">
+    </td>
+    <td>
+      <img id="HTML5" width="100" src="https://progress-bar.dev/75">
+    </td>
+    <td>
+      <img id="CSS3" width="100" src="https://progress-bar.dev/23">
+    </td>
+    <td>
+      <img id="SCSS" width="100" src="https://progress-bar.dev/13">
+    </td>
+    <td>
+      <img id="Bootstrap" width="100" src="https://progress-bar.dev/60">
+    </td>
+    <td>
+      <img id="Bootstrap" width="100" src="https://progress-bar.dev/10">
+    </td>
+    <td>
+      <img id="Bootstrap" width="100" src="https://progress-bar.dev/6">
+    </td>
+    <td>
+      <img id="Bootstrap" width="100" src="https://progress-bar.dev/5">
+    </td>
+    <td>
+      <img id="Bootstrap" width="100" src="https://progress-bar.dev/1">
+    </td>
+  </tr>
+</table>
 <hr />
 
 ## :link: Links:
