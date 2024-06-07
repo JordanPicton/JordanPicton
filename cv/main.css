@@ -1,0 +1,27 @@
+/* Top Banner Styling */
+#top-banner {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#pfp {
+  width: 8vw;
+  padding: 1vw;
+}
+
+#name-title {
+  width: 91vw;
+  text-align: right;
+}
+
+/* Information Styling */
+
+
+/* Global Styling */
+.outline {
+  outline: 1px black solid;
+}
+
+h1 {
+  font-size: 4rem;
+}
