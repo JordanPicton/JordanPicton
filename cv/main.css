@@ -2,24 +2,46 @@
 #top-banner {
   display: flex;
   flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #pfp {
-  width: 8vw;
   padding: 1vw;
+  height: 10%;
+  width: 10%;
 }
 
 #name-title {
-  width: 91vw;
   text-align: right;
 }
 
 /* Information Styling */
+#info {
+  display: flex;
+  flex-direction: row-reverse;
+}
 
+/* Main Section Styling */
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Introduction Styling */
+#intro {
+  width: 70vw;
+  align-self: center;
+  text-align: center;
+}
 
 /* Global Styling */
 .outline {
   outline: 1px black solid;
+}
+
+html {
+  font-size: 24px;
 }
 
 h1 {
