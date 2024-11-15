@@ -37,7 +37,7 @@
     <img width="50" alt="Jira Logo" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png">
   </a>
   <a href="https://www.blockbench.net">
-    <img width="50" alt="Block Bench Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blockbench_icon.png/768px-Blockbench_icon.png"/>
+    <img width="50" alt="Blockbench Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blockbench_icon.png/768px-Blockbench_icon.png"/>
   </a>
 
 ### 👨‍💻 Technologies:
