@@ -68,19 +68,19 @@
   </tr>
   <tr>
     <td>
-      <img id="Git" width="100" src="https://progress-bar.dev/2">
+      <img id="Git" width="100" src="https://geps.dev/progress/2">
     </td>
     <td>
-      <img id="GitHub" width="100" src="https://progress-bar.dev/5">
+      <img id="GitHub" width="100" src="https://geps.dev/progress/5">
     </td>
     <td>
-      <img id="HTML5" width="100" src="https://progress-bar.dev/75">
+      <img id="HTML5" width="100" src="https://geps.dev/progress/75">
     </td>
     <td>
-      <img id="CSS3" width="100" src="https://progress-bar.dev/23">
+      <img id="CSS3" width="100" src="https://geps.dev/progress/25">
     </td>
     <td>
-      <img id="SCSS" width="100" src="https://progress-bar.dev/13">
+      <img id="SCSS" width="100" src="https://geps.dev/progress/15">
     </td>
   </tr>
   <tr>
@@ -112,19 +112,19 @@
   </tr>
   <tr>
     <td>
-      <img id="Bootstrap" width="100" src="https://progress-bar.dev/60">
+      <img id="Bootstrap" width="100" src="https://geps.dev/progress/70">
     </td>
     <td>
-      <img id="JavaScript" width="100" src="https://progress-bar.dev/10">
+      <img id="JavaScript" width="100" src="https://geps.dev/progress/10">
     </td>
     <td>
-      <img id="Java" width="100" src="https://progress-bar.dev/6">
+      <img id="Java" width="100" src="https://geps.dev/progress/10">
     </td>
     <td>
-      <img id="Python" width="100" src="https://progress-bar.dev/5">
+      <img id="Python" width="100" src="https://geps.dev/progress/5">
     </td>
     <td>
-      <img id="NGINX" width="100" src="https://progress-bar.dev/1">
+      <img id="NGINX" width="100" src="https://geps.dev/progress/1">
     </td>
   </tr>
 </table>
