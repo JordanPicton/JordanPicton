@@ -146,3 +146,6 @@
     <a href="https://www.youtube.com/channel/UCRF-omIWK3pyQylsOyL_76A">
     <img id="YouTube" alt="" width="50" src="images/icons/youtube.png">
   </a>
+
+#### Credits:
+  - <a href="https://lingojam.com/FancyTextGenerator">lingojam</a> for the text generator.
