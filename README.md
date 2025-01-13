@@ -133,7 +133,7 @@
 </table>
 <hr />
 
-## :link: Links:
+## :link: Personal Links:
   <a href="https://github.com/JordanPicton">
     <img id="GitHub" alt="" width="50" src="images/icons/github-main.png">
   </a>
