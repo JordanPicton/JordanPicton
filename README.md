@@ -133,6 +133,8 @@
 </table>
 <hr />
 
+<img id="jordan-pfp" alt="" width="100" src="images/pfp/jordan_developer.png" style="border-radius:100px">
+
 ## :link: Personal Links:
   <a href="https://github.com/JordanPicton">
     <img id="GitHub" alt="" width="50" src="images/icons/github-main.png">
@@ -148,6 +150,17 @@
   </a>
   <a href="https://www.linkedin.com/in/jordan-picton-64a999272/">
     <img id="LinkedIn" alt="" width="50" src="images/icons/linkedin-logo.png">
+  </a>
+<hr />
+
+<img id="jordan-pfp" alt="" width="75" src="images/pfp/jordan_developer.png" style="border-radius:100px">
+  
+  ## :link: Pictostudio Links:
+  <a href="https://github.com/Pictostudio">
+    <img id="GitHub" alt="" width="50" src="images/icons/github-main.png">
+  </a>
+  <a href="https://modrinth.com/organization/pictostudio">
+  
   </a>
 
 #### Credits:
