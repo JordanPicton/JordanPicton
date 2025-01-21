@@ -150,7 +150,7 @@
 <img id="pictostudio-logo" alt="" width="75" src="images/pfp/pictostudio_organisation.png" style="border-radius:100px">
   
   ### :link: Pictostudio Links:
-  <a href="https://pictostudio">
+  <a href="https://pictostudio.co.uk">
     <img id="pictostudio-website" alt="" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzqa-AVuhyahSDSxKM8A0guhUTUm4DTijxA&s">
   </a>
   <a href="https://github.com/Pictostudio">
