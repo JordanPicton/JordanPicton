@@ -151,7 +151,7 @@
   
   ### :link: Pictostudio Links:
   <a href="https://pictostudio.co.uk">
-    <img id="pictostudio-website" alt="" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzqa-AVuhyahSDSxKM8A0guhUTUm4DTijxA&s">
+    <img id="pictostudio-website" alt="" width="50" src="https://e7.pngegg.com/pngimages/220/945/png-clipart-web-development-web-design-logo-body-sculptor-web-design-web-design-search-engine-optimization-thumbnail.png">
   </a>
   <a href="https://github.com/Pictostudio">
     <img id="github" alt="" width="50" src="images/icons/github-main.png">
