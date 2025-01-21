@@ -136,6 +136,9 @@
 <img id="jordan-pfp" alt="" width="100" src="images/pfp/jordan_developer.png" style="border-radius:100px">
 
 ### :link: Personal Links:
+  <a href="https://jordanpicton.xyz">
+    <img id="personal-website" alt="" width="50" src="https://e7.pngegg.com/pngimages/220/945/png-clipart-web-development-web-design-logo-body-sculptor-web-design-web-design-search-engine-optimization-thumbnail.png">
+  </a>
   <a href="https://github.com/JordanPicton">
     <img id="github" alt="" width="50" src="images/icons/github-main.png">
   </a>
