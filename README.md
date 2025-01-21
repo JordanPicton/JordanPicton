@@ -142,9 +142,6 @@
     <a href="https://github.com/JPicton-HCFE">
     <img id="github" alt="" width="50" src="images/icons/github-second.png">
   </a>
-  <a href="https://discord.gg/DaCTamGB4j">
-    <img id="discord" alt="" width="50" src="images/icons/discord.png">
-  </a>
   <a href="https://www.linkedin.com/in/jordan-picton-64a999272/">
     <img id="linkedin" alt="" width="50" src="images/icons/linkedin-logo.png">
   </a>
@@ -161,6 +158,9 @@
   </a>
   <a href="https://modrinth.com/organization/pictostudio">
     <img id ="modrinth-logo" alt="" width="50" src="https://cdn.modrinth.com/modrinth-new.png"> 
+  </a>
+  <a href="https://discord.gg/DaCTamGB4j">
+    <img id="discord" alt="" width="50" src="images/icons/discord.png">
   </a>
   <a href="https://www.youtube.com/channel/UCRF-omIWK3pyQylsOyL_76A">
     <img id="youtube" alt="" width="50" src="images/icons/youtube.png">
