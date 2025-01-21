@@ -127,7 +127,7 @@
       <img id="Python" width="100" src="https://geps.dev/progress/5">
     </td>
     <td>
-      <img id="NGINX" width="100" src="https://geps.dev/progress/1">
+      <img id="NGINX" width="100" src="https://geps.dev/progress/10">
     </td>
   </tr>
 </table>
@@ -135,7 +135,7 @@
 
 <img id="jordan-pfp" alt="" width="100" src="images/pfp/jordan_developer.png" style="border-radius:100px">
 
-## :link: Personal Links:
+### :link: Personal Links:
   <a href="https://github.com/JordanPicton">
     <img id="GitHub" alt="" width="50" src="images/icons/github-main.png">
   </a>
@@ -153,14 +153,17 @@
   </a>
 <hr />
 
-<img id="jordan-pfp" alt="" width="75" src="images/pfp/jordan_developer.png" style="border-radius:100px">
+<img id="pictostudio-logo" alt="" width="75" src="images/pfp/pictostudio_organisation.png" style="border-radius:100px">
   
-  ## :link: Pictostudio Links:
+  ### :link: Pictostudio Links:
+  <a href="https://pictostudio">
+    <img id="Pictostudio-Website" alt="" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzqa-AVuhyahSDSxKM8A0guhUTUm4DTijxA&s">
+  </a>
   <a href="https://github.com/Pictostudio">
     <img id="GitHub" alt="" width="50" src="images/icons/github-main.png">
   </a>
   <a href="https://modrinth.com/organization/pictostudio">
-  
+    <img id ="Modrinth-logo" alt="" width="50" src="https://cdn.modrinth.com/modrinth-new.png"> 
   </a>
 
 #### Credits:
