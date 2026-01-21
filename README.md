@@ -151,6 +151,9 @@
   <a href="https://www.linkedin.com/in/jordan-picton-64a999272/">
     <img id="linkedin" alt="" width="50" src="images/icons/linkedin-logo.png">
   </a>
+  <a href="https://codeberg.org/jordan-picton">
+    <img id="codeberg" alt="" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FC%2Fcodeberg-logo-48AEF275F9-seeklogo.com.png&f=1&nofb=1&ipt=355296ed73e19b9fb47a1727ff1d22cb02d4d6e96f55740e305b907bf225045e">
+  </a>
 <hr />
 
 <img id="pictostudio-logo" alt="" width="75" src="images/pfp/pictostudio_organisation.png" style="border-radius:100px">
