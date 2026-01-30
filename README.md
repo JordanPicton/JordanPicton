@@ -11,6 +11,8 @@
   <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp5a2ZuM3Q5NmdhNGp1aTd4dXBjOWJya2FweTBnb2V0cDFvOXBtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </h1>
 
+<p><b><em>Make sure to checkout my <a href="https://gitlab.com/JordanPicton" target="_blank">GitLab</a> and <a href="https://codeberg.org/JordanPicton" target="_blank">Codeberg</a> accounts as these are more up to date than GitHub.</em></b></p>
+
 <!-- About Me  Font used = Maths Sans Italic Bold-->
 
 ## 🗒️ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
@@ -150,6 +152,9 @@
   </a>
   <a href="https://www.linkedin.com/in/jordan-picton-64a999272/">
     <img id="linkedin" alt="" width="50" src="images/icons/linkedin-logo.png">
+  </a>
+  <a href="https://gitlab.com/JordanPicton">
+    <img id="codeberg" alt="" width="50" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F5847f997cef1014c0b5e48c1.png&f=1&nofb=1&ipt=e7c222e903652ccd26adb64c92bd47433f0af7e20ba7cc40c3d59c1e8ea81742">
   </a>
   <a href="https://codeberg.org/JordanPicton">
     <img id="codeberg" alt="" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FC%2Fcodeberg-logo-48AEF275F9-seeklogo.com.png&f=1&nofb=1&ipt=355296ed73e19b9fb47a1727ff1d22cb02d4d6e96f55740e305b907bf225045e">
